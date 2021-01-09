@@ -1,0 +1,211 @@
+body {
+	background:black;
+	font-size:30px;
+}
+
+pre {
+	color:white;
+	text-decoration:none;
+}
+
+img {
+	float:center;
+}
+
+#tekst_igraj {
+	color:white;
+	font-size:80px;
+	margin-top:-400px;
+	margin-left:20px;
+	background:black;
+	}
+
+h1 {
+	color:red;
+	margin-top:-500px;
+	margin-left:20px;
+	font-size:100px;
+}
+
+a {
+	text-decoration:none;
+}
+
+#tekst_napred {
+	color:white;
+	margin-top:-100px;
+	margin-left:1200px;
+}
+
+#konopac {
+	margin-left:400px;
+	margin-top:-150px;
+}
+
+#frizider {
+	margin-left:600px;
+	margin-top:-300px;
+}
+
+#tekst_nazad {
+	color:white;
+	margin-top:-300px;
+	margin-left:50px;
+}
+
+#ispred {
+	margin-left:800px;
+	margin-top:320px;
+}
+
+#krevet {
+	margin-left:850px;
+	margin-top:-350px;
+}
+
+#unutra {
+	margin-left:670px;
+	margin-top:350px;
+}
+
+#nebo {
+	margin-left:1000px;
+	margin-top:-600px;
+}
+
+#vatra {
+	margin-left:400px;
+	margin-top:-450px;
+}
+
+#motor {
+	margin-left:670px;
+	margin-top:480px;
+}
+
+#volan {
+	margin-left:640px;
+	margin-top:-400px;
+}
+
+#desno {
+	margin-left:1050px;
+	margin-top:-400px;
+}
+
+#napred {
+	margin-left:500px;
+	margin-top:-100px;
+}
+
+#kamen {
+	margin-left:850px;
+	margin-top:100px;
+}
+
+#avion {
+	margin-left:850px;
+	margin-top:100px;
+}
+
+#nazad {
+	margin-left:600px;
+	margin-top:200px;
+}
+
+#nazad2 {
+	margin-left:300px;
+	margin-top:-120px;
+}
+
+#avion2 {
+	margin-left:700px;
+	margin-top:50px;
+}
+
+#desno2 {
+	margin-left:1000px;
+	margin-top:-350px;
+}
+
+#nazad3 {
+	margin-left:300px;
+	margin-top:-30px;
+}
+
+#sto {
+	margin-left:850px;
+	margin-top:50px;
+}
+
+#kabina {
+	margin-left:650px;
+	margin-top:-80px;
+}
+
+#ajkula {
+	margin-left:650px;
+	margin-top:-370px;
+}
+
+#gore {
+	margin-left:700px;
+	margin-top:-280px;
+}
+
+#riba {
+	margin-left:1000px;
+	margin-top:-300px;
+}
+
+#riba2 {
+	margin-left:300px;
+	margin-top:-30px;
+}
+
+#riba3 {
+	margin-left:700px;
+	margin-top:450px;
+}
+
+#riba4 {
+	margin-left:700px;
+	margin-top:150px;
+}
+
+#dole {
+	margin-left:700px;
+	margin-top:200px;
+}
+
+#gore2 {
+	margin-left:700px;
+	margin-top:-100px;
+}
+
+#glava {
+	margin-left:700px;
+	margin-top:-280px;
+}
+
+#kljuc {
+	margin-left:700px;
+	margin-top:10px;
+}
+
+#tekst_kraj	{
+	color:red;
+	font-size:80px;
+	margin-top:-400px;
+	margin-left:550px;
+}
+
+h6 {
+	color:white;
+	margin-left:1050px;
+}
+
+#maska {
+	margin-left:800px;
+	margin-top:-50px;
+}
